@@ -7,6 +7,7 @@ http://ocelma.net/MusicRecommendationDataset/lastfm-1K.html
 This analysis show you the basic understanding of last.fm user data and provide you the insight of user
 
 a. A graph showing the Daily Active Users(DAU);
+[test](data visualization/DAU trend by date.png)
 
 b. A graph of Daily Active Users divided by Monthly Active Users (DAU/MAU);
 
