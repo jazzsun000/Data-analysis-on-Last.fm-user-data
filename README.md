@@ -52,3 +52,10 @@ The user daily usage average of frequency is around 2.78 times per day
 
 ![Histogram of count of daily sessions](https://github.com/jazzsun000/Data-analysis-on-Last.fm-user-data/blob/master/data%20visualization/Histogram%20of%20count%20of%20daily%20sessions.png)
 ![Descriptive statistic of daily session](https://github.com/jazzsun000/Data-analysis-on-Last.fm-user-data/blob/master/data%20visualization/Descriptive%20statistic%20of%20daily%20session%20.png)
+
+
+#### Which artist is the most popular amoung users?
+
+Radiohead is the most popular artist amoung all users.
+
+![Popularity of Artists by Count](https://github.com/jazzsun000/Data-analysis-on-Last.fm-user-data/blob/master/data%20visualization/Popularity%20of%20Artists%20by%20Count.png)
