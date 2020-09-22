@@ -12,7 +12,7 @@ a. A graph showing the Daily Active Users(DAU);
 
 b. A graph of Daily Active Users divided by Monthly Active Users (DAU/MAU);
 
-The graph show us there is a strong stickness of user on Last.fm music service since its dau/mau ratio keep above 50%.
+#### The graph show us there is a strong stickness of user on Last.fm music service since its dau/mau ratio keep above 50%.
 
 Industry Benchmarks
 
@@ -32,7 +32,8 @@ The average time of session length is around 69 mins.
 
 However, there are almost 50% of users stop using the service after 32 mins. 
 
-As a result, I would recommend musics marketing campaigns and advertisement monetization within 32mins when users start listening to music.
+#### As a result, I would recommend musics marketing campaigns and advertisement monetization within 32mins when users start listening to music.
+
 ![Histogram of session length](https://github.com/jazzsun000/Data-analysis-on-Last.fm-user-data/blob/master/data%20visualization/Histogram%20of%20session%20length.png)
 ![Descriptive statistic of session length](https://github.com/jazzsun000/Data-analysis-on-Last.fm-user-data/blob/master/data%20visualization/Descriptive%20statistic%20of%20session%20length.png)
 
