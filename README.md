@@ -28,14 +28,27 @@ Reference from https://www.geckoboard.com/best-practice/kpi-examples/dau-mau-rat
 
 c. A graph or two that illustrates something about how these users engage with Last.fm.
 
-### To calculate session length to understand how users engage with Last.fm
+### Session length
+
+Purpose: To calculate session length to understand how users engage with Last.fm
 
 The average time of session length is around 69 mins.
 
 However, there are almost 50% of users stop using the service after 32 mins. 
 
-#### As a result, I would recommend musics marketing campaigns and advertisement monetization within 32mins when users start listening to music.
+#### I would recommend Last.fm deliver important message or advertiser campaigns within 32mins when users start listening to music.
 
 ![Histogram of session length](https://github.com/jazzsun000/Data-analysis-on-Last.fm-user-data/blob/master/data%20visualization/Histogram%20of%20session%20length.png)
 ![Descriptive statistic of session length](https://github.com/jazzsun000/Data-analysis-on-Last.fm-user-data/blob/master/data%20visualization/Descriptive%20statistic%20of%20session%20length.png)
 
+
+### User frequency of use:How many sessions per day by each user?
+
+Purpose: To calculate daily session frequency to understand how users engage with Last.fm on daily basis.
+
+The user daily usage average of frequency is around 2.78 times per day
+
+#### I would recommend Last.fm deliver important message or advertiser campaigns in first two sessions when users start listening to music.
+
+![Histogram of count of daily sessions](https://github.com/jazzsun000/Data-analysis-on-Last.fm-user-data/blob/master/data%20visualization/Histogram%20of%20count%20of%20daily%20sessions.png)
+![Descriptive statistic of daily session](https://github.com/jazzsun000/Data-analysis-on-Last.fm-user-data/blob/master/data%20visualization/Descriptive%20statistic%20of%20daily%20session%20.png)
