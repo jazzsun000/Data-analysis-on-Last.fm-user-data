@@ -10,6 +10,7 @@ a. A graph showing the Daily Active Users(DAU);
 ![image](https://github.com/jazzsun000/Data-analysis-on-Last.fm-user-data/blob/master/data%20visualization/DAU%20trend%20by%20date.png)
 
 b. A graph of Daily Active Users divided by Monthly Active Users (DAU/MAU);
+![DAU/MAU](https://github.com/jazzsun000/Data-analysis-on-Last.fm-user-data/blob/master/data%20visualization/DAU:MAU%20trend%20by%20date.png)
 
 c. A graph or two that illustrates something about how these users engage with Last.fm.
 
