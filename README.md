@@ -28,6 +28,8 @@ Reference from https://www.geckoboard.com/best-practice/kpi-examples/dau-mau-rat
 
 c. A graph or two that illustrates something about how these users engage with Last.fm.
 
+### To calculate session length to understand how users engage with Last.fm
+
 The average time of session length is around 69 mins.
 
 However, there are almost 50% of users stop using the service after 32 mins. 
